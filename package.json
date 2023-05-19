@@ -1,6 +1,5 @@
 {
   "name": "ic-composable-vue3",
-  "private": true,
   "version": "1.0.0",
   "exports": {
     ".": {
